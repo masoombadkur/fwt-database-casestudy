@@ -1,0 +1,12 @@
+Entities
+
+Car
+Category
+Customer
+Location
+City
+Rent
+Reservation
+Equipment 
+Price
+Insurance
